@@ -1,0 +1,8 @@
+public class Test {
+    /*
+       Это многострочный комментарий
+       для проверки лабы */
+    public void printMessage() {
+        System.out.println("Hello");
+    }
+}
